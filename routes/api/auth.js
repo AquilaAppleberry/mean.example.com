@@ -69,4 +69,5 @@ router.delete('/logout', function(req, res){
       }
     });
   });
+
 module.exports = router;
